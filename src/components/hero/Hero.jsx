@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../navbar/Navbar'
 import me from '../../assets/me.jpg'
-import LinkedInIcon from '../../assets/LinkedInIcon.png' // replace with your LinkedIn icon image
+import LinkedInIcon from '../../assets/linkedinIcon.png' // replace with your LinkedIn icon image
 import LeetCodeIcon from '../../assets/lc.png' // replace with your LeetCode icon image
 import GFGIcon from '../../assets/gfg.jpeg' // replace with your GFG icon image
 import GitHubIcon from '../../assets/github.png' // replace with your GitHub icon image
